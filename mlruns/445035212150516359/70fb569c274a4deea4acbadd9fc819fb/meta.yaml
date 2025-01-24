@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/445035212150516359/70fb569c274a4deea4acbadd9fc819fb/artifacts
+end_time: 1737696423605
+entry_point_name: ''
+experiment_id: '445035212150516359'
+lifecycle_stage: active
+run_id: 70fb569c274a4deea4acbadd9fc819fb
+run_name: painted-conch-42
+run_uuid: 70fb569c274a4deea4acbadd9fc819fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737696405054
+status: 3
+tags: []
+user_id: Admin

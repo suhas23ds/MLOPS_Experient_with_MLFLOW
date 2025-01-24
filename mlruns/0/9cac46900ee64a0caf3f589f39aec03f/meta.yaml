@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9cac46900ee64a0caf3f589f39aec03f/artifacts
+end_time: 1737694787992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cac46900ee64a0caf3f589f39aec03f
+run_name: learned-ape-697
+run_uuid: 9cac46900ee64a0caf3f589f39aec03f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737694785403
+status: 3
+tags: []
+user_id: Admin

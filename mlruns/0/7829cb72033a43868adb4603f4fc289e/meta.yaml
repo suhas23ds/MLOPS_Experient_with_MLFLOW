@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7829cb72033a43868adb4603f4fc289e/artifacts
+end_time: 1737695458035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7829cb72033a43868adb4603f4fc289e
+run_name: nosy-eel-303
+run_uuid: 7829cb72033a43868adb4603f4fc289e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737695457204
+status: 3
+tags: []
+user_id: Admin
